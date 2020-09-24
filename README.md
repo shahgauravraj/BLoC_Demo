@@ -6,7 +6,7 @@
 
 This is a simple, flutter based, mobile application having a very basic structure created to demonstrate BloC implementation in flutter.
 
-A few useful resources:
+### A few useful resources:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
