@@ -1,6 +1,6 @@
 # BLoC_Demo
 
-![alt text](https://raw.githubusercontent.com/shahgauravraj/BLoC_Demo/master/assets/screenshots/Screenshot_1600955878.png)
+![alt text](https://raw.githubusercontent.com/shahgauravraj/BLoC_Demo/master/assets/screenshots/BLoC_Screenshot.png)
 
 ## About this app
 
